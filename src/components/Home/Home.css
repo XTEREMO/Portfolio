@@ -1,0 +1,28 @@
+.home{
+    color: rgb(0, 0, 0);
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+}
+
+.home-intro{
+    width: 50vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+    padding-left: 100px;
+    justify-content: center;
+}
+.home-img{
+    width: 50vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    overflow: hidden;
+}
+
+.home-social{
+    display: flex;
+    gap: 20px;
+}
